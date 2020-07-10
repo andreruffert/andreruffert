@@ -6,6 +6,7 @@ I'm a self-taught Software Engineer, passionate about JavaScript, Cutting-Edge, 
   <br />
   <br />
   <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="32" height="32" />
+  <p><small>Loading activity...</small></p>
   <br />
   <br />
 </div>
