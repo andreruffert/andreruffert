@@ -2,7 +2,9 @@
 
 I'm a self-taught Software Engineer, passionate about JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
 
-<img src="https://github.githubassets.com/images/mona-whisper.gif" width="48" />
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="32" height="32" />
+</div>
 
 <!--
 **andreruffert/andreruffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
