@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a self-taught Software Engineer, passionate about JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
+
 <!--
 **andreruffert/andreruffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
