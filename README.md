@@ -5,7 +5,7 @@ I'm a self-taught Software Engineer, passionate about JavaScript, Cutting-Edge, 
 <div align="center">
   <br />
   <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="32" height="32" />
-  <p><small class="text-gray">Loading activity...</small></p>
+  <p style="color:#586069"><small>Loading activity...</small></p>
   <br />
 </div>
 
