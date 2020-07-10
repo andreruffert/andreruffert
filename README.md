@@ -3,7 +3,11 @@
 I'm a self-taught Software Engineer, passionate about JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
 
 <div align="center">
-<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="32" height="32" />
+  <br />
+  <br />
+  <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="32" height="32" />
+  <br />
+  <br />
 </div>
 
 <!--
