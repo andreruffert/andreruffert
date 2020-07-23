@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm a self-taught Software Engineer, passionate about JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
+My name is André. I'm a self-taught Software Engineer, passionate about 
+JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
 
 <div align="center">
   <br />
