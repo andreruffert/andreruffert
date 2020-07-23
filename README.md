@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
+<p align="center">
 My name is André. I'm a self-taught Software Engineer, passionate about                       
 JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
+</p>
 
 <div align="center">
   <br />
