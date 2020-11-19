@@ -4,7 +4,7 @@ My name is André. I'm a self-taught Software Engineer.
 
 I'm passionate about JavaScript, Cutting-Edge, Web Standards, Best Practice and Open Source.
 
-🙌
+✌️
 
 <div align="center">
   <br />
