@@ -2,7 +2,9 @@
 
 My name is André. I'm a self-taught Software Engineer.
 
-I'm passionate about JavaScript, Cutting-Edge, Web Standards, Quality Software and Open Source.
+I'm passionate about JS, CSS, UI/UX, Cutting-Edge, Web Standards, Quality Software and Open Source.
+
+Thanks for reading.
 
 ✌️
 
