@@ -13,10 +13,6 @@ I'm passionate about JS, CSS, UI/UX, Cutting-Edge, Web Standards, Quality Softwa
   <br />
 </div>
 
-```bash
-npx andreruffert
-```
-
 <!--
 **andreruffert/andreruffert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
