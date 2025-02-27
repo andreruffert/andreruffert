@@ -5,6 +5,7 @@
 ### Hi there 👋
 
 My name is André. I'm a self-taught software engineer.
+
 JS, HTML/CSS, UI/UX, cutting-edge, web standards, quality software, DX, open source.
 
 ✌️
